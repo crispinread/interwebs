@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contextual Related Posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-08 11:38+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: FatCow <zhr@tut.by>\n"
+"Language-Team: Marcis Gasuns <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin.inc.php:49
+msgid "Options saved successfully."
+msgstr "Настройки успешно сохранены."
+
+#: admin.inc.php:58
+msgid "Options set to Default."
+msgstr "Настройки успешно заменены исходными."
+
+#: admin.inc.php:73
+msgid "Index recreated"
+msgstr "Индекс пересоздан"
+
+#: admin.inc.php:84
+msgid "Support the Development"
+msgstr "Поддержка разработки"
+
+#: admin.inc.php:88
+msgid "If you find "
+msgstr "Если вы находите"
+
+#: admin.inc.php:90
+msgid "useful, please do"
+msgstr "полезным, пожалуйста"
+
+#: admin.inc.php:91
+msgid "drop in your contribution"
+msgstr "внесите в нашу разработку"
+
+#: admin.inc.php:92
+msgid "Some reasons why you should."
+msgstr "Несколько причин, зачем это делать."
+
+#: admin.inc.php:99
+msgid "Options:"
+msgstr "Настройки:"
+
+#: admin.inc.php:104
+msgid "Number of related posts to display: "
+msgstr "Количество постов для отображения:"
+
+#: admin.inc.php:110
+msgid "Title of related posts: "
+msgstr "Название похожих постов:"
+
+#: admin.inc.php:114
+msgid "Exclude Categories: "
+msgstr "Исключить категории:"
+
+#: admin.inc.php:129
+msgid "When there are no posts, what should be shown?"
+msgstr "Когда нет поста, что должно быть показано?"
+
+#: admin.inc.php:132
+msgid "Blank Output"
+msgstr "чистая"
+
+#: admin.inc.php:136
+msgid "Display \"No Related Posts\""
+msgstr "Отображать \"Нет связанных постов\""
+
+#: admin.inc.php:142
+msgid "Add related posts to the post content on single posts. <br />If you choose to disable this, please add <code>&lt;?php if(function_exists('echo_ald_crp')) echo_ald_crp(); ?&gt;</code> to your template file where you want it displayed"
+msgstr "Добавить соответствующие посты к одиночному посту. <br />Если вы выбрали отключение этого, <code>&lt;?php if(function_exists('echo_ald_crp')) echo_ald_crp(); ?&gt;</code> в шаблон файла, где вы хотите его отображать."
+
+#: admin.inc.php:148
+msgid "Add related posts to pages. <br />If you choose to disable this, please add <code>&lt;?php if(function_exists('echo_ald_crp')) echo_ald_crp(); ?&gt;</code> to your template file where you want it displayed"
+msgstr "Добавить соответствующие посты к страницам. <br />Если вы выбрали отключение этого, добавьте <code>&lt;?php if(function_exists('echo_ald_crp')) echo_ald_crp(); ?&gt;</code> в шаблон файла, где вы хотите его отображать."
+
+#: admin.inc.php:154
+msgid "Add related posts to feed"
+msgstr "Добавить связанные посты в ленту."
+
+#: admin.inc.php:160
+msgid "Find related posts based on content as well as title. If unchecked, only posts titles are used. (I recommend using a caching plugin if you enable this)"
+msgstr "Найти соответствующие посты в зависимости от содержания, а также названия. Если не остановить, используются только названия постов. (Я рекомендую использовать кэширование плагина, если вы включите это)"
+
+#: admin.inc.php:166
+msgid "Exclude Pages in Related Posts"
+msgstr "Исключенные страницы в связанных постах"
+
+#: admin.inc.php:171
+msgid "Do you want to set options to Default?"
+msgstr "Вы хотите откатить настройки к изначальным?"
+
+#: admin.inc.php:172
+msgid "Are you sure you want to recreate the index?"
+msgstr "Вы действительно хотите пересоздать индекс?"
+
+#: admin.inc.php:197
+msgid "Related Posts"
+msgstr "Связанные посты"
+
+#: contextual-related-posts.php:89
+#: contextual-related-posts.php:93
+msgid "No related posts found"
+msgstr "Не найдены связанные посты"
+
+#: contextual-related-posts.php:125
+msgid "<h3>Related Posts:</h3>"
+msgstr "<h3>Связанные посты:</h3>"
+
+#: contextual-related-posts.php:190
+msgid "Settings"
+msgstr "Настройки"
+
+#: contextual-related-posts.php:191
+msgid "Support"
+msgstr "Поддержка"
+
+#: contextual-related-posts.php:192
+msgid "Donate"
+msgstr "Пожертвования"
+
+#~ msgid ""
+#~ "Do you want to set options to Default? If you don't have a copy of the "
+#~ "username, please hit Cancel and copy it first."
+#~ msgstr ""
+#~ " Non avessi una copia del nome utente, premi Annulla e fai una copia."

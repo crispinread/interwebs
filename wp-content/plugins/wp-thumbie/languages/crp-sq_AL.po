@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contextual Related Posts in albanian\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-08 11:38+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Romeo Shuka | http://www.romeolab.com/ <webmaster@romeolab.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Albanian\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Country: ALBANIA\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin.inc.php:49
+msgid "Options saved successfully."
+msgstr "Opsionet u ruajtën me sukses."
+
+#: admin.inc.php:58
+msgid "Options set to Default."
+msgstr "Opsionet u kthyen në ato të fillimit."
+
+#: admin.inc.php:73
+msgid "Index recreated"
+msgstr "U rikrijua indexi"
+
+#: admin.inc.php:84
+msgid "Support the Development"
+msgstr "Mbështet zhvillimin"
+
+#: admin.inc.php:88
+msgid "If you find "
+msgstr "Nëse të ka pëlqyer "
+
+#: admin.inc.php:90
+msgid "useful, please do"
+msgstr ", bëj"
+
+#: admin.inc.php:91
+msgid "drop in your contribution"
+msgstr "një dhurim"
+
+#: admin.inc.php:92
+msgid "Some reasons why you should."
+msgstr "disa arsye pse ti duhet të bësh."
+
+#: admin.inc.php:99
+msgid "Options:"
+msgstr "Opsionet:"
+
+#: admin.inc.php:104
+msgid "Number of related posts to display: "
+msgstr "numri i artikujve të ngjashëm që duhen shfaq:"
+
+#: admin.inc.php:110
+msgid "Title of related posts: "
+msgstr "Titulli i artikujve të ngjashëmi:"
+
+#: admin.inc.php:114
+msgid "Exclude Categories: "
+msgstr "përjashto kategoritë:"
+
+#: admin.inc.php:129
+msgid "When there are no posts, what should be shown?"
+msgstr "Cfarë dëshiron të shfaqësh në mungesë të artikujve?"
+
+#: admin.inc.php:132
+msgid "Blank Output"
+msgstr "asgjë"
+
+#: admin.inc.php:136
+msgid "Display \"No Related Posts\""
+msgstr "\"Anjë artikull i ngjashëm\""
+
+#: admin.inc.php:142
+msgid "Add related posts to the post content on single posts. <br />If you choose to disable this, please add <code>&lt;?php if(function_exists('echo_ald_crp')) echo_ald_crp(); ?&gt;</code> to your template file where you want it displayed"
+msgstr "shto artikujt e ngjashëm në postimet teke. <br />ose c'aktivizo dhe shto kodini <code>&lt;?php if(function_exists('echo_ald_crp')) echo_ald_crp(); ?&gt;</code> në templatin tënd, aty ku don të shfaqen ato."
+
+#: admin.inc.php:148
+msgid "Add related posts to pages. <br />If you choose to disable this, please add <code>&lt;?php if(function_exists('echo_ald_crp')) echo_ald_crp(); ?&gt;</code> to your template file where you want it displayed"
+msgstr "shto artikujt e ngjashëm në faqet. <br />ose c'aktivizo dhe vendos kodin <code>&lt;?php if(function_exists('echo_ald_crp')) echo_ald_crp(); ?&gt;</code> në templatën tënde ku don që të shfaqen ato"
+
+#: admin.inc.php:154
+msgid "Add related posts to feed"
+msgstr "shto artikujt e ngjashëm në feed"
+
+#: admin.inc.php:160
+msgid "Find related posts based on content as well as title. If unchecked, only posts titles are used. (I recommend using a caching plugin if you enable this)"
+msgstr "Kërko artikuj të ngjashëm në varësi të përmbajtjes e titullit. Nëse nuk eshte e zgjedhur, do të zgjidhen vetëm në bazë të titujve. (Për këtë ju sugjeroj të përdorni një plugin për Cache)"
+
+#: admin.inc.php:166
+msgid "Exclude Pages in Related Posts"
+msgstr "Përjashto faqet nga Related Posts"
+
+#: admin.inc.php:171
+msgid "Do you want to set options to Default?"
+msgstr "Je i sigurtë që do të kthesh opsionet e fillimit?"
+
+#: admin.inc.php:172
+msgid "Are you sure you want to recreate the index?"
+msgstr "Je i sigurtë që don të rikrijosh indexin?"
+
+#: admin.inc.php:197
+msgid "Related Posts"
+msgstr "Related Posts"
+
+#: contextual-related-posts.php:89
+#: contextual-related-posts.php:93
+msgid "No related posts found"
+msgstr "Nuk u gjënd asnjë artikull i ngjashëm"
+
+#: contextual-related-posts.php:125
+msgid "<h3>Related Posts:</h3>"
+msgstr "<h3>Artikujt e ngjashëm:</h3>"
+
+#: contextual-related-posts.php:190
+msgid "Settings"
+msgstr "Impostimet"
+
+#: contextual-related-posts.php:191
+msgid "Support"
+msgstr "Ndihma"
+
+#: contextual-related-posts.php:192
+msgid "Donate"
+msgstr "Dhuroni"
+
+#~ msgid ""
+#~ "Do you want to set options to Default? If you don't have a copy of the "
+#~ "username, please hit Cancel and copy it first."
+#~ msgstr ""
+#~ " Non avessi una copia del nome utente, premi Annulla e fai una copia."
+
